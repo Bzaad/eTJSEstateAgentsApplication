@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eTJSEstateAgents", "eTJSEstateAgents\eTJSEstateAgents.csproj", "{11D9815F-C2A6-40A7-A451-6AB2D8DFA5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D9815F-C2A6-40A7-A451-6AB2D8DFA5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D9815F-C2A6-40A7-A451-6AB2D8DFA5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D9815F-C2A6-40A7-A451-6AB2D8DFA5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D9815F-C2A6-40A7-A451-6AB2D8DFA5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B817925-54D6-4F19-B314-AC218D6D7051}
+	EndGlobalSection
+EndGlobal
